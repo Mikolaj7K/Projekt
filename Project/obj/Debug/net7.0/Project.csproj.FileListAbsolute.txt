@@ -1,0 +1,15 @@
+c:\Users\mikol\Desktop\Project\bin\Debug\net7.0\Project.exe
+c:\Users\mikol\Desktop\Project\bin\Debug\net7.0\Project.deps.json
+c:\Users\mikol\Desktop\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+c:\Users\mikol\Desktop\Project\bin\Debug\net7.0\Project.dll
+c:\Users\mikol\Desktop\Project\bin\Debug\net7.0\Project.pdb
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\Project.dll
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\refint\Project.dll
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\Project.pdb
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+c:\Users\mikol\Desktop\Project\obj\Debug\net7.0\ref\Project.dll
